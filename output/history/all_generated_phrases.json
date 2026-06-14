@@ -1,0 +1,40 @@
+{
+  "phrases": [
+    {
+      "english": "Hello, welcome. We are happy to serve you.",
+      "gujarati": "નમસ્તે, સ્વાગત છે. તમને સેવા આપીને આનંદ થશે.",
+      "transliteration": "Namaste, swagat chhe. Tamne seva aapine aanand thashe.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-14T23:15:45.307384"
+    },
+    {
+      "english": "What would you like, to drink?",
+      "gujarati": "તમારે શું પીવું છે, પીવા માટે?",
+      "transliteration": "Tamare shu pivu chhe, piva mate?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-14T23:15:45.307393"
+    },
+    {
+      "english": "This is our menu, please take a look.",
+      "gujarati": "આ અમારું મેનુ છે, કૃપા કરીને જુઓ.",
+      "transliteration": "Aa amaru menu chhe, krupa karine juo.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-14T23:15:45.307394"
+    },
+    {
+      "english": "I recommend this dish, it's very popular.",
+      "gujarati": "હું આ વાનગીની ભલામણ કરું છું, તે ખૂબ લોકપ્રિય છે.",
+      "transliteration": "Hu aa vangini bhalaman karu chhu, te khub lokpriya chhe.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-14T23:15:45.307395"
+    },
+    {
+      "english": "Can we have the bill, please?",
+      "gujarati": "શું અમે બિલ લઈ શકીએ, કૃપા કરીને?",
+      "transliteration": "Shu ame bill lai shakie, krupa karine?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-14T23:15:45.307397"
+    }
+  ],
+  "last_updated": "2026-06-14T23:15:45.307398"
+}
