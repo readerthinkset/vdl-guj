@@ -104,7 +104,42 @@
       "transliteration": "Aano, ghano arth chhe.",
       "category": "Gratitude",
       "generated_at": "2026-06-15T17:26:04.936809"
+    },
+    {
+      "english": "Where is the nearest, train station?",
+      "gujarati": "નજીકનું, રેલવે સ્ટેશન ક્યાં છે?",
+      "transliteration": "Najiknu, railway station kya chhe?",
+      "category": "Travel",
+      "generated_at": "2026-06-15T18:24:31.283331"
+    },
+    {
+      "english": "Can you help, me please?",
+      "gujarati": "શું તમે, મને મદદ કરી શકો?",
+      "transliteration": "Shu tame, mane madad kari shako?",
+      "category": "Travel",
+      "generated_at": "2026-06-15T18:24:31.283339"
+    },
+    {
+      "english": "How much does, this cost?",
+      "gujarati": "આની, કિંમત કેટલી છે?",
+      "transliteration": "Aani, kimmat ketli chhe?",
+      "category": "Travel",
+      "generated_at": "2026-06-15T18:24:31.283341"
+    },
+    {
+      "english": "I need a, taxi.",
+      "gujarati": "મને, ટેક્સી જોઈએ.",
+      "transliteration": "Mane, taxi joie.",
+      "category": "Travel",
+      "generated_at": "2026-06-15T18:24:31.283342"
+    },
+    {
+      "english": "Where is, the hotel?",
+      "gujarati": "હોટેલ, ક્યાં છે?",
+      "transliteration": "Hotel, kya chhe?",
+      "category": "Travel",
+      "generated_at": "2026-06-15T18:24:31.283343"
     }
   ],
-  "last_updated": "2026-06-15T17:26:04.936810"
+  "last_updated": "2026-06-15T18:24:31.283345"
 }
