@@ -209,7 +209,42 @@
       "transliteration": "Dhyān āpō, jē dēkhāy.",
       "category": "Mindfulness",
       "generated_at": "2026-06-15T22:18:32.035079"
+    },
+    {
+      "english": "Help, please, I need help.",
+      "gujarati": "મદદ કરો, મહેરબાની કરીને, મને મદદ જોઈએ.",
+      "transliteration": "Madad karo, meherbaani karine, mane madad joie.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T02:40:33.403732"
+    },
+    {
+      "english": "I am lost, can you help?",
+      "gujarati": "હું ખોવાઈ ગયો છું, શું તમે મદદ કરશો?",
+      "transliteration": "Hu khovai gayo chhu, shu tame madad karsho?",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T02:40:33.403742"
+    },
+    {
+      "english": "Call an ambulance, quickly!",
+      "gujarati": "એમ્બ્યુલન્સ બોલાવો, જલદી!",
+      "transliteration": "Ambulance bolavo, jaldi!",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T02:40:33.403743"
+    },
+    {
+      "english": "Where is the hospital?",
+      "gujarati": "હોસ્પિટલ ક્યાં છે?",
+      "transliteration": "Hospital kyana chhe?",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T02:40:33.403744"
+    },
+    {
+      "english": "I don't feel well.",
+      "gujarati": "મને સારું નથી લાગતું.",
+      "transliteration": "Mane saaru nathi lagtu.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T02:40:33.403745"
     }
   ],
-  "last_updated": "2026-06-15T22:18:32.035081"
+  "last_updated": "2026-06-16T02:40:33.403746"
 }
