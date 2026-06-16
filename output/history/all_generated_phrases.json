@@ -384,7 +384,42 @@
       "transliteration": "Tene khulva do, kudrati rite.",
       "category": "Patience",
       "generated_at": "2026-06-16T20:14:40.535500"
+    },
+    {
+      "english": "Happy day, my friend.",
+      "gujarati": "મજાનો દિવસ, મારા દોસ્ત.",
+      "transliteration": "Majano divas, mara dost.",
+      "category": "Joy",
+      "generated_at": "2026-06-16T22:10:55.923736"
+    },
+    {
+      "english": "Feeling good, so happy.",
+      "gujarati": "મજામાં છું, ખૂબ ખુશ.",
+      "transliteration": "Majama chhu, khub khush.",
+      "category": "Joy",
+      "generated_at": "2026-06-16T22:10:55.923745"
+    },
+    {
+      "english": "What a lovely surprise!",
+      "gujarati": "કેટલી સરસ ભેટ!",
+      "transliteration": "Ketli saras bhet!",
+      "category": "Joy",
+      "generated_at": "2026-06-16T22:10:55.923746"
+    },
+    {
+      "english": "This is wonderful news.",
+      "gujarati": "આ સરસ સમાચાર છે.",
+      "transliteration": "Aa saras samachar chhe.",
+      "category": "Joy",
+      "generated_at": "2026-06-16T22:10:55.923748"
+    },
+    {
+      "english": "Pure joy, right now.",
+      "gujarati": "સંપૂર્ણ આનંદ, અત્યારે.",
+      "transliteration": "Sampurna anand, atyare.",
+      "category": "Joy",
+      "generated_at": "2026-06-16T22:10:55.923753"
     }
   ],
-  "last_updated": "2026-06-16T20:14:40.535502"
+  "last_updated": "2026-06-16T22:10:55.923754"
 }
