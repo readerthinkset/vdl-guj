@@ -279,7 +279,42 @@
       "transliteration": "Dhiraj rakho, badha sathe, hamesha.",
       "category": "Kindness",
       "generated_at": "2026-06-16T12:57:25.176493"
+    },
+    {
+      "english": "Hello, how are you?",
+      "gujarati": "નમસ્તે, કેમ છો?",
+      "transliteration": "Namaste, kem chho?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T17:13:01.851812"
+    },
+    {
+      "english": "Thank you, very much.",
+      "gujarati": "આભાર, ખૂબ ખૂબ.",
+      "transliteration": "Aabhar, khoob khoob.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T17:13:01.851822"
+    },
+    {
+      "english": "My name is, [name].",
+      "gujarati": "મારું નામ, [નામ] છે.",
+      "transliteration": "Maru naam, [naam] chhe.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T17:13:01.851824"
+    },
+    {
+      "english": "Where is, the station?",
+      "gujarati": "સ્ટેશન, ક્યાં છે?",
+      "transliteration": "Station, kya chhe?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T17:13:01.851825"
+    },
+    {
+      "english": "I don't understand.",
+      "gujarati": "મને સમજાયું નથી.",
+      "transliteration": "Mane samjayu nathi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T17:13:01.851826"
     }
   ],
-  "last_updated": "2026-06-16T12:57:25.176494"
+  "last_updated": "2026-06-16T17:13:01.851828"
 }
