@@ -734,7 +734,42 @@
       "transliteration": "Navi sharuat rah jue chhe.",
       "category": "Hope",
       "generated_at": "2026-06-18T19:42:04.543647"
+    },
+    {
+      "english": "The food was delicious, thank you very much.",
+      "gujarati": "ખોરાક સ્વાદિષ્ટ હતો, તમારો ખૂબ ખૂબ આભાર.",
+      "transliteration": "Khorak swadisht hato, tamaro khub khub aabhar.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T22:11:03.588729"
+    },
+    {
+      "english": "We need a table, for two people.",
+      "gujarati": "અમને બે લોકો માટે, ટેબલ જોઈએ છે.",
+      "transliteration": "Amane be loko mate, table joie chhe.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T22:11:03.588739"
+    },
+    {
+      "english": "Is this seat, taken?",
+      "gujarati": "શું આ બેઠક, લીધેલી છે?",
+      "transliteration": "Shu aa bethak, lidheli chhe?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T22:11:03.588740"
+    },
+    {
+      "english": "Do you have any, vegetarian options?",
+      "gujarati": "શું તમારી પાસે, શાકાહારી વિકલ્પો છે?",
+      "transliteration": "Shu tamari pase, shakahari vikalpo chhe?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T22:11:03.588742"
+    },
+    {
+      "english": "Excuse me, can we order now?",
+      "gujarati": "માફ કરશો, શું અમે હવે ઓર્ડર કરી શકીએ?",
+      "transliteration": "Maaf karsho, shu ame have order kari shakie?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T22:11:03.588743"
     }
   ],
-  "last_updated": "2026-06-18T19:42:04.543649"
+  "last_updated": "2026-06-18T22:11:03.588745"
 }
