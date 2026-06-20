@@ -1049,7 +1049,42 @@
       "transliteration": "Bas rahō, hālmāṁ hājar.",
       "category": "Mindfulness",
       "generated_at": "2026-06-20T15:45:31.111064"
+    },
+    {
+      "english": "Can you help me?",
+      "gujarati": "શું તમે મદદ કરી શકો?",
+      "transliteration": "Shu tame madad kari shako?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T18:18:00.571900"
+    },
+    {
+      "english": "Yes, please. No, thank you.",
+      "gujarati": "હા, કૃપા કરીને. ના, આભાર.",
+      "transliteration": "Ha, krupa karine. Na, aabhar.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T18:18:00.571909"
+    },
+    {
+      "english": "Good morning, sir.",
+      "gujarati": "સુપ્રભાત, સાહેબ.",
+      "transliteration": "Suprabhat, saheb.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T18:18:00.571911"
+    },
+    {
+      "english": "See you later.",
+      "gujarati": "પછી મળીશું.",
+      "transliteration": "Pachhi malishu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T18:18:00.571912"
+    },
+    {
+      "english": "Excuse me, please.",
+      "gujarati": "માફ કરજો, કૃપા કરીને.",
+      "transliteration": "Maaf karjo, krupa karine.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T18:18:00.571913"
     }
   ],
-  "last_updated": "2026-06-20T15:45:31.111066"
+  "last_updated": "2026-06-20T18:18:00.571915"
 }
