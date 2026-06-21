@@ -1189,7 +1189,42 @@
       "transliteration": "Shu hu aa paheri shaku?",
       "category": "Shopping",
       "generated_at": "2026-06-21T14:28:00.420259"
+    },
+    {
+      "english": "One, two, three, let's go.",
+      "gujarati": "એક, બે, ત્રણ, ચાલો જઈએ.",
+      "transliteration": "Ek, be, tran, chalo jaiye.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T15:50:02.072642"
+    },
+    {
+      "english": "How many? Four, five, six.",
+      "gujarati": "કેટલા? ચાર, પાંચ, છ.",
+      "transliteration": "Ketla? Char, panch, chha.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T15:50:02.072653"
+    },
+    {
+      "english": "Seven days, a whole week.",
+      "gujarati": "સાત દિવસ, આખો અઠવાડિયું.",
+      "transliteration": "Saat divas, aakho athvadiyu.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T15:50:02.072654"
+    },
+    {
+      "english": "Eight, nine, ten, all done.",
+      "gujarati": "આઠ, નવ, દસ, બધું પૂરું.",
+      "transliteration": "Aath, nav, das, badhu puru.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T15:50:02.072656"
+    },
+    {
+      "english": "Just one more, please.",
+      "gujarati": "માત્ર એક વધુ, કૃપા કરીને.",
+      "transliteration": "Matra ek vadhu, krupa karine.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T15:50:02.072657"
     }
   ],
-  "last_updated": "2026-06-21T14:28:00.420261"
+  "last_updated": "2026-06-21T15:50:02.072659"
 }
