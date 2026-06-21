@@ -1224,7 +1224,42 @@
       "transliteration": "Matra ek vadhu, krupa karine.",
       "category": "Numbers",
       "generated_at": "2026-06-21T15:50:02.072657"
+    },
+    {
+      "english": "My thanks, to you.",
+      "gujarati": "મારો આભાર, તમને.",
+      "transliteration": "Maaro aabhar, tamne.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T21:13:09.799220"
+    },
+    {
+      "english": "What a gift, thank you.",
+      "gujarati": "કેટલી ભેટ, આભાર.",
+      "transliteration": "Ketli bhet, aabhar.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T21:13:09.799232"
+    },
+    {
+      "english": "Your help, is valued.",
+      "gujarati": "તમારી મદદ, મૂલ્યવાન છે.",
+      "transliteration": "Tamari madad, mulyavan chhe.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T21:13:09.799233"
+    },
+    {
+      "english": "I'm truly, thankful.",
+      "gujarati": "હું ખરેખર, આભારી છું.",
+      "transliteration": "Hu kharekher, aabhari chhu.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T21:13:09.799235"
+    },
+    {
+      "english": "Bless you, always.",
+      "gujarati": "તમને, હંમેશા આશીર્વાદ.",
+      "transliteration": "Tamne, hamesha aashirvad.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T21:13:09.799236"
     }
   ],
-  "last_updated": "2026-06-21T15:50:02.072659"
+  "last_updated": "2026-06-21T21:13:09.799237"
 }
