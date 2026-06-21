@@ -1154,7 +1154,42 @@
       "transliteration": "Sthitisthapakta, tamari superpower chhe.",
       "category": "Strength",
       "generated_at": "2026-06-21T02:36:36.877017"
+    },
+    {
+      "english": "Where is the nearest shop?",
+      "gujarati": "નજીકની દુકાન ક્યાં છે?",
+      "transliteration": "Najikni dukaan kya chhe?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T14:28:00.420246"
+    },
+    {
+      "english": "How much is this, please?",
+      "gujarati": "આ કેટલાનું છે, કૃપા કરીને?",
+      "transliteration": "Aa ketlanu chhe, krupā karine?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T14:28:00.420255"
+    },
+    {
+      "english": "I am looking for a shirt.",
+      "gujarati": "હું શર્ટ શોધી રહ્યો છું.",
+      "transliteration": "Hu shirt shodhi rahyo chhu.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T14:28:00.420257"
+    },
+    {
+      "english": "Do you have this in blue?",
+      "gujarati": "આમાં વાદળી રંગ છે?",
+      "transliteration": "Aama vadali rang chhe?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T14:28:00.420258"
+    },
+    {
+      "english": "Can I try this on?",
+      "gujarati": "શું હું આ પહેરી શકું?",
+      "transliteration": "Shu hu aa paheri shaku?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T14:28:00.420259"
     }
   ],
-  "last_updated": "2026-06-21T02:36:36.877018"
+  "last_updated": "2026-06-21T14:28:00.420261"
 }
