@@ -1259,7 +1259,42 @@
       "transliteration": "Tamne, hamesha aashirvad.",
       "category": "Gratitude",
       "generated_at": "2026-06-21T21:13:09.799236"
+    },
+    {
+      "english": "Speak Gujarati, with confidence.",
+      "gujarati": "ગુજરાતી બોલો, આત્મવિશ્વાસ સાથે.",
+      "transliteration": "Gujarati bolo, atmavishwas sathe.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T02:40:27.612253"
+    },
+    {
+      "english": "Learn Gujarati, every day.",
+      "gujarati": "દરરોજ, ગુજરાતી શીખો.",
+      "transliteration": "Darroj, Gujarati shikho.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T02:40:27.612262"
+    },
+    {
+      "english": "Your Gujarati, is improving.",
+      "gujarati": "તમારું ગુજરાતી, સુધરી રહ્યું છે.",
+      "transliteration": "Tamaru Gujarati, sudhari rahyu chhe.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T02:40:27.612263"
+    },
+    {
+      "english": "Try speaking, you can do it.",
+      "gujarati": "બોલવાનો પ્રયાસ કરો, તમે કરી શકો છો.",
+      "transliteration": "Bolvano prayas karo, tame kari shako chho.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T02:40:27.612265"
+    },
+    {
+      "english": "Mistakes are okay, learn from them.",
+      "gujarati": "ભૂલો બરાબર છે, તેમાંથી શીખો.",
+      "transliteration": "Bhulo barabar chhe, temanthi shikho.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T02:40:27.612266"
     }
   ],
-  "last_updated": "2026-06-21T21:13:09.799237"
+  "last_updated": "2026-06-22T02:40:27.612267"
 }
