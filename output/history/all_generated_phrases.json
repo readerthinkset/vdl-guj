@@ -1294,7 +1294,42 @@
       "transliteration": "Bhulo barabar chhe, temanthi shikho.",
       "category": "Confidence",
       "generated_at": "2026-06-22T02:40:27.612266"
+    },
+    {
+      "english": "Things will get better.",
+      "gujarati": "પરિસ્થિતિ સુધરશે.",
+      "transliteration": "Paristhiti sudharshe.",
+      "category": "Hope",
+      "generated_at": "2026-06-22T17:09:38.841723"
+    },
+    {
+      "english": "Stay strong, my friend.",
+      "gujarati": "મજબૂત રહો, મારા મિત્ર.",
+      "transliteration": "Majboot raho, mara mitra.",
+      "category": "Hope",
+      "generated_at": "2026-06-22T17:09:38.841731"
+    },
+    {
+      "english": "Your dreams are valid.",
+      "gujarati": "તમારા સપના સાચા છે.",
+      "transliteration": "Tamara sapna sacha chhe.",
+      "category": "Hope",
+      "generated_at": "2026-06-22T17:09:38.841733"
+    },
+    {
+      "english": "Keep pushing forward.",
+      "gujarati": "આગળ વધતા રહો.",
+      "transliteration": "Agal vadhta raho.",
+      "category": "Hope",
+      "generated_at": "2026-06-22T17:09:38.841734"
+    },
+    {
+      "english": "There's light ahead.",
+      "gujarati": "આગળ પ્રકાશ છે.",
+      "transliteration": "Agal prakash chhe.",
+      "category": "Hope",
+      "generated_at": "2026-06-22T17:09:38.841735"
     }
   ],
-  "last_updated": "2026-06-22T02:40:27.612267"
+  "last_updated": "2026-06-22T17:09:38.841737"
 }
