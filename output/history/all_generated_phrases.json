@@ -1469,7 +1469,42 @@
       "transliteration": "Saraltathi jivo, premthi unda.",
       "category": "Happiness",
       "generated_at": "2026-06-23T16:26:58.795856"
+    },
+    {
+      "english": "Hello there, how are you?",
+      "gujarati": "નમસ્તે, કેમ છો?",
+      "transliteration": "Namaste, kem chho?",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T19:11:25.849412"
+    },
+    {
+      "english": "Good morning, friend.",
+      "gujarati": "સુપ્રભાત, મિત્ર.",
+      "transliteration": "Suprabhat, mitra.",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T19:11:25.849421"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "gujarati": "સ્વાગત છે, કૃપા કરીને આવો.",
+      "transliteration": "Swagat chhe, krupa karine aavo.",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T19:11:25.849422"
+    },
+    {
+      "english": "Nice to meet you.",
+      "gujarati": "તમને મળીને આનંદ થયો.",
+      "transliteration": "Tamne maline aanand thayo.",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T19:11:25.849424"
+    },
+    {
+      "english": "Hello, what's new?",
+      "gujarati": "કેમ છો, શું ચાલે છે?",
+      "transliteration": "Kem chho, shu chaale chhe?",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T19:11:25.849425"
     }
   ],
-  "last_updated": "2026-06-23T16:26:58.795858"
+  "last_updated": "2026-06-23T19:11:25.849426"
 }
