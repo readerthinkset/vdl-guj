@@ -1609,7 +1609,42 @@
       "transliteration": "Hu aa laish, ābhār.",
       "category": "Shopping",
       "generated_at": "2026-06-24T18:59:18.737969"
+    },
+    {
+      "english": "Read books, expand your mind.",
+      "gujarati": "પુસ્તકો વાંચો, મન વિસ્તારો.",
+      "transliteration": "Pustako vaancho, man vistaaro.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T21:22:15.697104"
+    },
+    {
+      "english": "Ask questions, clarify doubts.",
+      "gujarati": "પ્રશ્નો પૂછો, શંકા સ્પષ્ટ કરો.",
+      "transliteration": "Prashno poochho, shanka spasht karo.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T21:22:15.697132"
+    },
+    {
+      "english": "Try new words, enrich vocabulary.",
+      "gujarati": "નવા શબ્દો અજમાવો, શબ્દભંડોળ સમૃદ્ધ કરો.",
+      "transliteration": "Nava shabdo ajmaavo, shabdabhandol samruddh karo.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T21:22:15.697134"
+    },
+    {
+      "english": "Embrace the challenge, enjoy learning.",
+      "gujarati": "પડકાર સ્વીકારો, શીખવાનો આનંદ માણો.",
+      "transliteration": "Padkaar svikaaro, shikhvaano aanand maano.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T21:22:15.697136"
+    },
+    {
+      "english": "Speak Gujarati, feel proud.",
+      "gujarati": "ગુજરાતી બોલો, ગર્વ અનુભવો.",
+      "transliteration": "Gujarati bolo, garv anubhavo.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T21:22:15.697137"
     }
   ],
-  "last_updated": "2026-06-24T18:59:18.737971"
+  "last_updated": "2026-06-24T21:22:15.697139"
 }
