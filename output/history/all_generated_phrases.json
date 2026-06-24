@@ -1504,7 +1504,42 @@
       "transliteration": "Kem chho, shu chaale chhe?",
       "category": "Greetings",
       "generated_at": "2026-06-23T19:11:25.849425"
+    },
+    {
+      "english": "When, is the event?",
+      "gujarati": "ક્યારે, છે કાર્યક્રમ?",
+      "transliteration": "Kyare, chhe karyakram?",
+      "category": "Time",
+      "generated_at": "2026-06-24T02:08:48.389850"
+    },
+    {
+      "english": "Today, is a good day.",
+      "gujarati": "આજે, સારો દિવસ છે.",
+      "transliteration": "Aaje, saro divas chhe.",
+      "category": "Time",
+      "generated_at": "2026-06-24T02:08:48.389855"
+    },
+    {
+      "english": "Yesterday, was busy.",
+      "gujarati": "ગઈકાલે, વ્યસ્ત હતો.",
+      "transliteration": "Gaikale, vyast hato.",
+      "category": "Time",
+      "generated_at": "2026-06-24T02:08:48.389857"
+    },
+    {
+      "english": "Every day, new learning.",
+      "gujarati": "રોજ, નવું શીખવાનું.",
+      "transliteration": "Roj, navu shikhvanu.",
+      "category": "Time",
+      "generated_at": "2026-06-24T02:08:48.389858"
+    },
+    {
+      "english": "For a while, let's rest.",
+      "gujarati": "થોડી વાર, આરામ કરીએ.",
+      "transliteration": "Thodi vaar, aaram karie.",
+      "category": "Time",
+      "generated_at": "2026-06-24T02:08:48.389859"
     }
   ],
-  "last_updated": "2026-06-23T19:11:25.849426"
+  "last_updated": "2026-06-24T02:08:48.389861"
 }
