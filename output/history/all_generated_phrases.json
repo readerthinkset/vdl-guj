@@ -1749,7 +1749,42 @@
       "transliteration": "Aapno sambandh, vadhto j rahe chhe.",
       "category": "Friendship",
       "generated_at": "2026-07-21T15:41:39.317983"
+    },
+    {
+      "english": "My sister, she's a doctor.",
+      "gujarati": "મારી બહેન, તે ડૉક્ટર છે.",
+      "transliteration": "Mari bahen, te doctor chhe.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T18:19:54.520591"
+    },
+    {
+      "english": "He is my best friend.",
+      "gujarati": "તે મારો ખાસ મિત્ર છે.",
+      "transliteration": "Te maro khas mitra chhe.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T18:19:54.520601"
+    },
+    {
+      "english": "Our parents, they live nearby.",
+      "gujarati": "અમારા માતાપિતા, તે નજીક રહે છે.",
+      "transliteration": "Amara matapita, te najik rahe chhe.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T18:19:54.520603"
+    },
+    {
+      "english": "She's my cousin, very funny.",
+      "gujarati": "તે મારી પિતરાઈ છે, ખૂબ રમુજી.",
+      "transliteration": "Te mari pitrai chhe, khub ramuji.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T18:19:54.520604"
+    },
+    {
+      "english": "My uncle, a great cook.",
+      "gujarati": "મારા કાકા, એક મહાન રસોઈયા.",
+      "transliteration": "Mara kaka, ek mahan rasoiya.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T18:19:54.520605"
     }
   ],
-  "last_updated": "2026-07-21T15:41:39.317984"
+  "last_updated": "2026-07-21T18:19:54.520607"
 }
