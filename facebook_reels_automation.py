@@ -77,7 +77,7 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
+    "Mindfulness",
 
     "Daily Routine",
     "Weather",
