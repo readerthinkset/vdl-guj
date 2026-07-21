@@ -136,6 +136,9 @@ CATEGORIES_NATIVE = {
     "Growth": "વૃદ્ધિ",
     "Purpose": "હેતુ",
     "Mindfulness": "સજાગતા"
+,
+
+    "Daily Routine": "દૈનિક દિનચર્યા"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
