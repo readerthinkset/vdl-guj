@@ -219,7 +219,7 @@ def get_available_category():
 
 
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
-    category_native = CATEGORIES_NATIVE[category_english]
+    category_native = CATEGORIES_NATIVE.get(category_english, category_english)
     max_attempts = 3
 
     history = load_phrase_history()
@@ -1659,7 +1659,7 @@ def generate_reel(category_english: str = None):
         category_english = get_available_category()
 
     print(f"\n{'='*80}")
-    print(f"Category: {category_english} ({CATEGORIES_NATIVE[category_english]})")
+    print(f"Category: {category_english} ({CATEGORIES_NATIVE.get(category_english, category_english)})")
     print(f"{'='*80}\n")
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -1698,7 +1698,7 @@ def generate_reel(category_english: str = None):
 
     metadata = {
         "category_english": category_english,
-        "category_native": CATEGORIES_NATIVE[category_english],
+        "category_native": CATEGORIES_NATIVE.get(category_english, category_english),
         "timestamp": timestamp,
         "phrases": phrases,
         "video": str(output_video),
@@ -1731,7 +1731,7 @@ if __name__ == "__main__":
     print("  - NEVER repeats phrases (permanent history tracking)")
     print(f"\nAVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_NATIVE[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_NATIVE.get(cat, cat)})")
     print("="*80)
 
     generate_reel()
