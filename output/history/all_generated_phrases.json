@@ -1819,7 +1819,42 @@
       "transliteration": "Krupa karine, te farithi kaho.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-21T21:07:25.099510"
+    },
+    {
+      "english": "Feeling happy, today.",
+      "gujarati": "આજે ખુશ છું.",
+      "transliteration": "Aaje khush chhu.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T01:26:08.101230"
+    },
+    {
+      "english": "A little sad, maybe.",
+      "gujarati": "થોડો ઉદાસ, કદાચ.",
+      "transliteration": "Thodo udaas, kadach.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T01:26:08.101242"
+    },
+    {
+      "english": "Feeling excited, for sure.",
+      "gujarati": "ખૂબ ઉત્સાહિત છું.",
+      "transliteration": "Khub utsahit chhu.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T01:26:08.101244"
+    },
+    {
+      "english": "So tired, right now.",
+      "gujarati": "હમણાં ખૂબ થાકી ગયો છું.",
+      "transliteration": "Hamna khub thaki gayo chhu.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T01:26:08.101245"
+    },
+    {
+      "english": "Feeling calm, peacefully.",
+      "gujarati": "શાંતિથી, શાંત છું.",
+      "transliteration": "Shantithi, shant chhu.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T01:26:08.101246"
     }
   ],
-  "last_updated": "2026-07-21T21:07:25.099511"
+  "last_updated": "2026-07-22T01:26:08.101248"
 }
