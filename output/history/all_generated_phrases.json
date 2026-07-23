@@ -1994,7 +1994,42 @@
       "transliteration": "Buddhipurvak praathamikta aapo, tamaara samay nu sanchalan karo.",
       "category": "Work",
       "generated_at": "2026-07-22T21:05:42.301122"
+    },
+    {
+      "english": "Sun is shining brightly, today.",
+      "gujarati": "સૂરજ today, તેજ ચમકી રહ્યો છે.",
+      "transliteration": "Suraj today, tej chamki rahyo chhe.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T01:46:14.719305"
+    },
+    {
+      "english": "A gentle breeze, is blowing.",
+      "gujarati": "એક હળવો પવન, ફૂંકાઈ રહ્યો છે.",
+      "transliteration": "Ek halvo pavan, phoonkai rahyo chhe.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T01:46:14.719316"
+    },
+    {
+      "english": "Clouds are gathering, for rain.",
+      "gujarati": "વાદળો ભેગા થઈ રહ્યા છે, વરસાદ માટે.",
+      "transliteration": "Vadalo bhega thai rahya chhe, varsad mate.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T01:46:14.719318"
+    },
+    {
+      "english": "It's raining lightly, outside.",
+      "gujarati": "બહાર, હળવો વરસાદ પડી રહ્યો છે.",
+      "transliteration": "Bahar, halvo varsad padi rahyo chhe.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T01:46:14.719319"
+    },
+    {
+      "english": "The sky is clear, and blue.",
+      "gujarati": "આકાશ સ્વચ્છ છે, અને વાદળી.",
+      "transliteration": "Akash svachchh chhe, ane vadali.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T01:46:14.719321"
     }
   ],
-  "last_updated": "2026-07-22T21:05:42.301123"
+  "last_updated": "2026-07-23T01:46:14.719322"
 }
