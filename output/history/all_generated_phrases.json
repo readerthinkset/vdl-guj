@@ -2309,7 +2309,42 @@
       "transliteration": "Dhyanthi sambhalo, pachhi javab aapo.",
       "category": "Confidence",
       "generated_at": "2026-07-24T14:02:24.658171"
+    },
+    {
+      "english": "May I, see, the specials board?",
+      "gujarati": "શું હું, ખાસ વાનગીઓ, જોઈ શકું?",
+      "transliteration": "Shu hu, khas vāngīo, joī shakuṁ?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T15:23:48.555504"
+    },
+    {
+      "english": "This smells, wonderful, really!",
+      "gujarati": "આની સુગંધ, ખૂબ સરસ, આવે છે!",
+      "transliteration": "Ānī sugandh, khūb saras, āve chhe!",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T15:23:48.555512"
+    },
+    {
+      "english": "Could you, bring, some more water?",
+      "gujarati": "શું તમે, થોડું, વધારે પાણી લાવશો?",
+      "transliteration": "Shuṁ tame, thōḍuṁ, vadhāre pāṇī lāvaśo?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T15:23:48.555513"
+    },
+    {
+      "english": "What is, made with, those spices?",
+      "gujarati": "તે મસાલા, માં શું, બનેલું છે?",
+      "transliteration": "Te masālā, māṁ shuṁ, banēluṁ chhe?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T15:23:48.555515"
+    },
+    {
+      "english": "We are ready, to order, soon.",
+      "gujarati": "અમે જલ્દી, ઓર્ડર, આપવા તૈયાર છીએ.",
+      "transliteration": "Ame jaldī, order, āpavā taiyār chhīe.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T15:23:48.555516"
     }
   ],
-  "last_updated": "2026-07-24T14:02:24.658172"
+  "last_updated": "2026-07-24T15:23:48.555517"
 }
