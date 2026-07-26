@@ -2659,7 +2659,42 @@
       "transliteration": "Lakshyo praapya chhe, aayojan sathe.",
       "category": "Finance",
       "generated_at": "2026-07-26T18:04:54.113389"
+    },
+    {
+      "english": "Feeling content, deeply.",
+      "gujarati": "ખૂબ, સંતોષ થયો.",
+      "transliteration": "Khoob, santosh thayo.",
+      "category": "Feelings",
+      "generated_at": "2026-07-26T20:57:27.684986"
+    },
+    {
+      "english": "A bit annoyed, honestly.",
+      "gujarati": "થોડો, ગુસ્સો આવ્યો.",
+      "transliteration": "Thodo, gusso aavyo.",
+      "category": "Feelings",
+      "generated_at": "2026-07-26T20:57:27.684997"
+    },
+    {
+      "english": "Overjoyed, simply wonderful.",
+      "gujarati": "ખુશ, ખૂબ આનંદ.",
+      "transliteration": "Khush, khoob aanand.",
+      "category": "Feelings",
+      "generated_at": "2026-07-26T20:57:27.684998"
+    },
+    {
+      "english": "Feeling drained, completely.",
+      "gujarati": "થાક્યો, બિલકુલ.",
+      "transliteration": "Thakyo, bilkul.",
+      "category": "Feelings",
+      "generated_at": "2026-07-26T20:57:27.684999"
+    },
+    {
+      "english": "Quite peaceful, truly.",
+      "gujarati": "શાંત, ખરેખર.",
+      "transliteration": "Shaant, kharekhar.",
+      "category": "Feelings",
+      "generated_at": "2026-07-26T20:57:27.685000"
     }
   ],
-  "last_updated": "2026-07-26T18:04:54.113391"
+  "last_updated": "2026-07-26T20:57:27.685001"
 }
