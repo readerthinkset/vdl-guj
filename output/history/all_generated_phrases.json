@@ -2589,7 +2589,42 @@
       "transliteration": "Tamari jijnyasa, tamaru margadarshan.",
       "category": "Success",
       "generated_at": "2026-07-26T13:45:13.244518"
+    },
+    {
+      "english": "Look up, the sky is clear.",
+      "gujarati": "ઉપર જુઓ, આકાશ ચોખ્ખું છે.",
+      "transliteration": "Upar juo, aakash chokkhu chhe.",
+      "category": "Directions",
+      "generated_at": "2026-07-26T15:02:02.204691"
+    },
+    {
+      "english": "Turn left, then go straight.",
+      "gujarati": "ડાબી બાજુ વળો, પછી સીધા જાઓ.",
+      "transliteration": "Dabi baju valo, pachhi sidha jao.",
+      "category": "Directions",
+      "generated_at": "2026-07-26T15:02:02.204701"
+    },
+    {
+      "english": "Open the door, slowly please.",
+      "gujarati": "દરવાજો ખોલો, ધીમેથી કૃપા કરીને.",
+      "transliteration": "Darwajo kholo, dhime thi krupa karine.",
+      "category": "Directions",
+      "generated_at": "2026-07-26T15:02:02.204703"
+    },
+    {
+      "english": "Sit down, make yourself comfortable.",
+      "gujarati": "બેસી જાઓ, આરામ કરો.",
+      "transliteration": "Besi jao, aaram karo.",
+      "category": "Directions",
+      "generated_at": "2026-07-26T15:02:02.204704"
+    },
+    {
+      "english": "Listen carefully, to the instructions.",
+      "gujarati": "ધ્યાનથી સાંભળો, સૂચનાઓ.",
+      "transliteration": "Dhyanthi sambhlo, suchanao.",
+      "category": "Directions",
+      "generated_at": "2026-07-26T15:02:02.204705"
     }
   ],
-  "last_updated": "2026-07-26T13:45:13.244520"
+  "last_updated": "2026-07-26T15:02:02.204707"
 }
