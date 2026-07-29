@@ -2904,7 +2904,42 @@
       "transliteration": "Maru mo, dhime bole chhe.",
       "category": "Body Parts",
       "generated_at": "2026-07-29T01:26:30.117697"
+    },
+    {
+      "english": "My dad, he's always busy, with work.",
+      "gujarati": "મારા પિતા, તે હંમેશા વ્યસ્ત રહે છે, કામમાં.",
+      "transliteration": "Mara pita, te hamesha vyast rahe chhe, kamma.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:26:21.894939"
+    },
+    {
+      "english": "My mom, she worries, too much, about us.",
+      "gujarati": "મારી માતા, તે ચિંતા કરે છે, ખૂબ, અમારા માટે.",
+      "transliteration": "Mari mata, te chinta kare chhe, khub, amara mate.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:26:21.894947"
+    },
+    {
+      "english": "My brother, he likes, to help me, build things.",
+      "gujarati": "મારો ભાઈ, તેને ગમે છે, મને મદદ કરવી, વસ્તુઓ બનાવવામાં.",
+      "transliteration": "Maro bhai, tene game chhe, mane madad karvi, vastu banavavama.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:26:21.894949"
+    },
+    {
+      "english": "My sister, she reads, poetry, beautifully.",
+      "gujarati": "મારી બહેન, તે કવિતા વાંચે છે, સુંદર રીતે.",
+      "transliteration": "Mari bahen, te kavita vanche chhe, sundar rite.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:26:21.894951"
+    },
+    {
+      "english": "Grandma, her laughter, fills the house.",
+      "gujarati": "દાદી, તેનું હાસ્ય, ઘર ભરી દે છે.",
+      "transliteration": "Dadi, tenu hasya, ghar bhari de chhe.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:26:21.894952"
     }
   ],
-  "last_updated": "2026-07-29T01:26:30.117699"
+  "last_updated": "2026-07-29T14:26:21.894954"
 }
