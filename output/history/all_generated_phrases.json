@@ -2869,7 +2869,42 @@
       "transliteration": "Tamaro avaj bahar lavo, nirbhaypane.",
       "category": "Courage",
       "generated_at": "2026-07-28T21:05:28.571795"
+    },
+    {
+      "english": "My head, feels heavy.",
+      "gujarati": "મારું માથું, ભારે લાગે છે.",
+      "transliteration": "Maru mathu, bhare lage chhe.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-29T01:26:30.117686"
+    },
+    {
+      "english": "Her eyes, sparkle brightly.",
+      "gujarati": "તેની આંખો, ચમકે છે.",
+      "transliteration": "Teni ankho, chamke chhe.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-29T01:26:30.117693"
+    },
+    {
+      "english": "His ears, hear everything.",
+      "gujarati": "તેના કાન, બધું સાંભળે છે.",
+      "transliteration": "Tena kaan, badhu sambhale chhe.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-29T01:26:30.117695"
+    },
+    {
+      "english": "A nose, for smelling.",
+      "gujarati": "નાક, સૂંઘવા માટે.",
+      "transliteration": "Naak, sughva mate.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-29T01:26:30.117696"
+    },
+    {
+      "english": "My mouth, speaks softly.",
+      "gujarati": "મારું મોં, ધીમે બોલે છે.",
+      "transliteration": "Maru mo, dhime bole chhe.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-29T01:26:30.117697"
     }
   ],
-  "last_updated": "2026-07-28T21:05:28.571797"
+  "last_updated": "2026-07-29T01:26:30.117699"
 }
