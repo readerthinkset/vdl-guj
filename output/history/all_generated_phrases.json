@@ -3079,7 +3079,42 @@
       "transliteration": "Tabibi katokati, ahi j.",
       "category": "Emergency",
       "generated_at": "2026-07-30T01:19:42.342990"
+    },
+    {
+      "english": "My brother, he's learning guitar.",
+      "gujarati": "મારો ભાઈ, ગિટાર શીખી રહ્યો છે.",
+      "transliteration": "Maro bhai, guitar shikhi rahyo chhe.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T14:23:44.694386"
+    },
+    {
+      "english": "My aunt, she bakes amazing cakes.",
+      "gujarati": "મારી માસી, સરસ કેક બનાવે છે.",
+      "transliteration": "Mari masi, saras cake banave chhe.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T14:23:44.694397"
+    },
+    {
+      "english": "My nephew, he loves playing cricket.",
+      "gujarati": "મારો ભાણેજ, ક્રિકેટ રમવાનો શોખીન છે.",
+      "transliteration": "Maro bhannej, cricket ramvano shaukin chhe.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T14:23:44.694399"
+    },
+    {
+      "english": "My niece, she sings beautifully.",
+      "gujarati": "મારી ભત્રીજી, મધુર ગાય છે.",
+      "transliteration": "Mari bhatriji, madhur gaay chhe.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T14:23:44.694401"
+    },
+    {
+      "english": "My father-in-law, a wise man.",
+      "gujarati": "મારા સસરા, ડાહ્યા માણસ છે.",
+      "transliteration": "Mara sasara, dahya manas chhe.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T14:23:44.694402"
     }
   ],
-  "last_updated": "2026-07-30T01:19:42.342991"
+  "last_updated": "2026-07-30T14:23:44.694404"
 }
