@@ -3044,7 +3044,42 @@
       "transliteration": "Aapne fari sharu kari shakie, kharu?",
       "category": "Forgiveness",
       "generated_at": "2026-07-29T20:54:15.932760"
+    },
+    {
+      "english": "Danger nearby, please be aware.",
+      "gujarati": "ખતરો નજીક છે, કૃપા કરી ધ્યાન આપો.",
+      "transliteration": "Khatro najik chhe, krupa kari dhyan aapo.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T01:19:42.342977"
+    },
+    {
+      "english": "Someone fell, need assistance.",
+      "gujarati": "કોઈ પડી ગયું, મદદ જોઈએ.",
+      "transliteration": "Koi padi gayu, madad joie.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T01:19:42.342985"
+    },
+    {
+      "english": "Fire alarm, evacuate now.",
+      "gujarati": "આગનો એલાર્મ, તરત બહાર નીકળો.",
+      "transliteration": "Aag no alarm, tarat bahar nikalo.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T01:19:42.342987"
+    },
+    {
+      "english": "My bag is stolen, report please.",
+      "gujarati": "મારી બેગ ચોરાઈ ગઈ, રિપોર્ટ કરો.",
+      "transliteration": "Mari bag chorai gai, report karo.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T01:19:42.342988"
+    },
+    {
+      "english": "Medical emergency, right here.",
+      "gujarati": "તબીબી કટોકટી, અહીં જ.",
+      "transliteration": "Tabibi katokati, ahi j.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T01:19:42.342990"
     }
   ],
-  "last_updated": "2026-07-29T20:54:15.932761"
+  "last_updated": "2026-07-30T01:19:42.342991"
 }
