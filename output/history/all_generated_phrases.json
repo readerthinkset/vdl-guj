@@ -3394,7 +3394,42 @@
       "transliteration": "Sangit ne, havama bhari do.",
       "category": "Music",
       "generated_at": "2026-07-31T21:02:51.672769"
+    },
+    {
+      "english": "The cat purrs softly, a gentle sound.",
+      "gujarati": "બિલાડી ધીમેથી ઘુરકે છે, એક મધુર અવાજ.",
+      "transliteration": "Biladi dhime thi ghurke chhe, ek madhur avaj.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T01:47:35.515997"
+    },
+    {
+      "english": "A dog barks, loud and clear.",
+      "gujarati": "કૂતરો ભસે છે, મોટેથી અને સ્પષ્ટ.",
+      "transliteration": "Kutro bhase chhe, motethi ane spasht.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T01:47:35.516007"
+    },
+    {
+      "english": "Birds sing sweetly, in the trees.",
+      "gujarati": "પક્ષીઓ મીઠા ગીતો ગાય છે, ઝાડ પર.",
+      "transliteration": "Pakshio mithha geeto gaay chhe, jhad par.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T01:47:35.516009"
+    },
+    {
+      "english": "The cow chews grass, slowly and calmly.",
+      "gujarati": "ગાય ઘાસ ચાવે છે, ધીમે ધીમે અને શાંતિથી.",
+      "transliteration": "Gaay ghas chhave chhe, dhime dhime ane shantithi.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T01:47:35.516010"
+    },
+    {
+      "english": "A lion roars, a powerful sound.",
+      "gujarati": "સિંહ ગર્જના કરે છે, એક શક્તિશાળી અવાજ.",
+      "transliteration": "Sinh garjana kare chhe, ek shaktishali avaj.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T01:47:35.516012"
     }
   ],
-  "last_updated": "2026-07-31T21:02:51.672771"
+  "last_updated": "2026-08-01T01:47:35.516013"
 }
