@@ -4164,7 +4164,42 @@
       "transliteration": "Masalanu praman, badli, shakay.",
       "category": "Restaurant",
       "generated_at": "2026-08-05T18:26:40.640193"
+    },
+    {
+      "english": "The fog, is rolling in.",
+      "gujarati": "ધુમ્મસ, પ્રસરી રહ્યું છે.",
+      "transliteration": "Dhummas, prasari rahyu chhe.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T21:05:39.313204"
+    },
+    {
+      "english": "A sudden downpour, arrived.",
+      "gujarati": "અચાનક, વરસાદ વરસ્યો.",
+      "transliteration": "Achanak, varsaad varasyo.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T21:05:39.313212"
+    },
+    {
+      "english": "Thunder rumbled, far away.",
+      "gujarati": "ગાજવીજ, દૂર સંભળાઈ.",
+      "transliteration": "Gajvij, door sambhalai.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T21:05:39.313213"
+    },
+    {
+      "english": "Lightning flashed, quickly.",
+      "gujarati": "વીજળી, ચમકી ગઈ.",
+      "transliteration": "Vijali, chamki gai.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T21:05:39.313215"
+    },
+    {
+      "english": "The air, is humid today.",
+      "gujarati": "હવા, આજે ભેજવાળી છે.",
+      "transliteration": "Hava, aaje bhejvali chhe.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T21:05:39.313216"
     }
   ],
-  "last_updated": "2026-08-05T18:26:40.640194"
+  "last_updated": "2026-08-05T21:05:39.313217"
 }
