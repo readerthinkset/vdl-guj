@@ -4129,7 +4129,42 @@
       "transliteration": "Lal vadalo, poradhe.",
       "category": "Nature",
       "generated_at": "2026-08-05T16:00:41.716659"
+    },
+    {
+      "english": "Your table, is ready, right this way.",
+      "gujarati": "તમારું ટેબલ, તૈયાર, આ બાજુ.",
+      "transliteration": "Tamaru table, taiyar, aa baju.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T18:26:40.640181"
+    },
+    {
+      "english": "Would you like, an appetizer, first?",
+      "gujarati": "પહેલા, નાસ્તો, લેશો?",
+      "transliteration": "Pahela, nastro, lesho?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T18:26:40.640188"
+    },
+    {
+      "english": "This dish, is a house, specialty.",
+      "gujarati": "આ વાનગી, ઘરની, ખાસ છે.",
+      "transliteration": "Aa vangī, gharni, khas chhe.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T18:26:40.640190"
+    },
+    {
+      "english": "We have, fresh catch, today.",
+      "gujarati": "આજે, તાજી, માછલી, છે.",
+      "transliteration": "Aaje, taji, machhali, chhe.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T18:26:40.640192"
+    },
+    {
+      "english": "The spice level, can be, adjusted.",
+      "gujarati": "મસાલાનું પ્રમાણ, બદલી, શકાય.",
+      "transliteration": "Masalanu praman, badli, shakay.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T18:26:40.640193"
     }
   ],
-  "last_updated": "2026-08-05T16:00:41.716660"
+  "last_updated": "2026-08-05T18:26:40.640194"
 }
