@@ -4304,7 +4304,42 @@
       "transliteration": "Panch tara, akashma.",
       "category": "Numbers",
       "generated_at": "2026-08-06T22:47:46.228976"
+    },
+    {
+      "english": "The monkey swings, from branch to branch.",
+      "gujarati": "વાંદરો ડાળીએ, ડાળીએ ઝૂલે છે.",
+      "transliteration": "Vāndaro ḍāḷīe, ḍāḷīe jhūle che.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:52:36.400930"
+    },
+    {
+      "english": "A rabbit hops, through the meadow.",
+      "gujarati": "સસલું ઘાસમાં, આમતેમ કૂદે છે.",
+      "transliteration": "Sasluṁ ghāsmāṁ, āmateṁ kūde che.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:52:36.400942"
+    },
+    {
+      "english": "The elephant walks, with mighty steps.",
+      "gujarati": "હાથી ચાલે, મોટા પગલે.",
+      "transliteration": "Hāthī chāle, moṭā pagale.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:52:36.400944"
+    },
+    {
+      "english": "A fish swims, in the clear water.",
+      "gujarati": "માછલી તરે, ચોખ્ખા પાણીમાં.",
+      "transliteration": "Māchhalī tare, chokhhā pāṇīmāṁ.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:52:36.400946"
+    },
+    {
+      "english": "The owl hoots, in the night.",
+      "gujarati": "ઘુવડ બોલે, રાત્રે.",
+      "transliteration": "Ghuvad bole, rātre.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:52:36.400947"
     }
   ],
-  "last_updated": "2026-08-06T22:47:46.228977"
+  "last_updated": "2026-08-07T00:52:36.400949"
 }
